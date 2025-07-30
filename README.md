@@ -1,4 +1,4 @@
-🖼️ Image Cropping Tool using OpenCV
+🖼️ Image Cropping Tool using OpenCV https://github.com/prajwalghotkar/OpenCV
 ##### Project Description:
 ***This project is a simple and interactive image cropping tool built using Python and OpenCV. It allows users to manually select a region of interest (ROI) within an image using mouse input and displays the cropped section in a new window. The tool provides a straightforward way to crop images without using complex GUI libraries, making it lightweight and efficient for quick cropping tasks.***
 
@@ -45,5 +45,5 @@
 - Support multiple cropping and batch processing.
 
 #### Prajwal Ghotkar
-
+https://github.com/prajwalghotkar/OpenCV
 
