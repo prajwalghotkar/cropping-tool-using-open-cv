@@ -1,1 +1,1 @@
-# cropping-tool-using-open-cv
+# cropping tool using open cv
