@@ -44,6 +44,6 @@
 - Save the cropped image directly to disk.
 - Support multiple cropping and batch processing.
 
-#### Prajwal Ghotkar
+
 https://github.com/prajwalghotkar/OpenCV
 
